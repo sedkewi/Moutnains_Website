@@ -1,0 +1,95 @@
+body{
+	background-image:url("wallpaper.png");
+	background-size:cover;
+	background-position:center;
+	margin:45px;
+}
+header{
+	background-color:#106658;
+	border-color:white;
+	border-style:groove;
+	border-radius:45px;
+	border-width:20px;
+	text-align:center;
+	margin:35px;
+	padding:12px;
+	opacity:50%;
+}
+hgroup{
+	background-color:#0ca88f;
+	border-style:groove;
+	border-radius:45px;
+	border-width:20px;
+	border-color:#09b89c;
+	text-align:center;
+	font-family:Comic Sans MS;
+	padding:10px;
+}
+hgroup h1{
+	font-Size:80px;
+	color:white;
+}
+hgroup h2{
+	font-Size:40px;
+	color:#8aebdb;
+}
+header img{
+	float:left;
+}
+.navbar{
+	
+	border-radius:60px;
+	border-color:#00ffbb;
+	border-style:groove;
+	border-width:12px;
+}
+.time{
+	background-color:#106658;
+	border-color:#00ffbb;
+	border-style:groove;
+	border-radius:45px;
+	border-width:20px;
+	text-align:center;
+	margin:35px;
+	padding:12px;
+	opacity:80%;
+}
+section{
+		background-color:#106658;
+	border-color:#00ffbb;
+	border-style:groove;
+	border-radius:45px;
+	border-width:20px;
+	text-align:center;
+	margin:35px;
+	padding:12px;
+	opacity:80%;
+	
+}
+article{
+	background-color:white;
+	opacity:60%;
+	color:#106658;
+	font-family:Comic Sans MS;
+	font-size:35px;
+}
+.time h3{
+	background-color:#0ca88f;
+	border-style:groove;
+	border-radius:45px;
+	border-width:20px;
+	border-color:#09b89c;
+	text-align:center;
+	font-family:Comic Sans MS;
+	padding:10px;
+	font-Size:30px;
+	color:#8aebdb;
+}
+#time{
+	color:white;
+	font-Size:45px;
+	text-align:center;
+	font-family:Comic Sans MS;
+	padding:10px;
+
+}
